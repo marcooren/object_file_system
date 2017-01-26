@@ -1,0 +1,23 @@
+{
+    "name": "object_file_system",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app3.js",
+    "scripts": {
+        "start": "node app3.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcooren/object_file_system.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/marcooren/object_file_system/issues"
+    },
+    "homepage": "https://github.com/marcooren/object_file_system#readme",
+    "dependencies": {
+        "readline-sync": "^1.4.5"
+    }
+}
